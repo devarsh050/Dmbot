@@ -1,4 +1,4 @@
-BotToken = "NjE2NTk5MDMxNjY1MjYyNTkz.XY-jMw.22u_4_SAqInVLLo1AwCWNd7nQrY"
+BotToken = "NjQyNzY0MTQ5NDYxNjE0NjE1.Xcbq1A.FtNzd1fyBCWMkakXCV5WFH1AxvE"
 #BotToken = "Enter your Bot Token here!"
 BotPrefix = "$"
 
