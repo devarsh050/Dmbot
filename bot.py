@@ -12,7 +12,7 @@ from discord.ext import commands
 import random
 import aiohttp
 import json
-Import time
+import time
 
 if BotToken == "Enter your Bot Token here!":
     raise ValueError("Please enter your Bot Token in line 1")
